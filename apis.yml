@@ -1,8 +1,26 @@
 aid: monumental
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/monumental.png
 name: Monumental
-description: 'Monumental is a company surfaced as a portfolio company of northzone and added to the API
-  Evangelist network as a stub for enrichment. Sector: enterprise. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: >-
+  Monumental builds autonomous construction robots and the software that runs them. Its robots
+  lay bricks and blockwork on real building sites, coordinated by Monumental's software platform
+  (Atrium) and fleet operations (Fleet). The venture-backed company operates across the Netherlands,
+  the United Kingdom, and the United States, and has raised multiple funding rounds (including a
+  reported $32M raise and Series B rounds in the US and UK). Monumental was surfaced as a portfolio
+  company of Northzone and added to the API Evangelist network. As of this profile the company
+  publishes no public developer API, SDK, or API documentation - this record captures its identity
+  and domain-security posture.
 url: https://raw.githubusercontent.com/api-evangelist/monumental/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Enterprise
+- Construction
+- Robotics
+- Automation
+- Construction Technology
+- Hardware
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +48,14 @@ maintainers:
 common:
 - type: Website
   url: https://www.monumental.co
+- type: Support
+  url: https://www.monumental.co/contact
+- type: DomainSecurity
+  url: security/monumental-domain-security.yml
+- type: LLMsTxt
+  url: llms/monumental-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

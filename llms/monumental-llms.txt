@@ -1,0 +1,25 @@
+# Monumental
+
+> Monumental builds autonomous construction robots and the software that runs them. Its robots lay bricks and blockwork on real building sites, coordinated by Monumental's software platform (Atrium) and fleet operations (Fleet). The company operates across the Netherlands, the United Kingdom, and the United States and is venture-backed. As of this profile Monumental publishes no public developer API, SDK, or API documentation.
+
+## Company
+- [Monumental](https://www.monumental.co): Company website
+- [About](https://www.monumental.co/about): Who Monumental is
+- [Our Vision](https://www.monumental.co/our-vision): Company mission and vision
+- [Projects](https://www.monumental.co/projects): Construction projects delivered with Monumental robots
+- [Press](https://www.monumental.co/press): News and announcements
+- [Press Kit](https://www.monumental.co/press/kit): Media assets
+
+## Products
+- [Atrium](https://www.monumental.co/atrium): Monumental's software platform
+- [Fleet](https://www.monumental.co/fleet): Robot fleet operations
+
+## Contact & Careers
+- [Contact](https://www.monumental.co/contact): Get in touch
+- [Jobs](https://www.monumental.co/jobs): Open roles and careers
+
+## Notes
+- generated: '2026-07-20'
+- method: generated
+- source: apis.yml + https://www.monumental.co/sitemap.xml
+- No public API, OpenAPI/AsyncAPI specification, SDK packages, MCP server, or /llms.txt was found on the provider's surface at profiling time.
